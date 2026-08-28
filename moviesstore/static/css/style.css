@@ -1,0 +1,5 @@
+.bg-index{ /*defines bg-index css class*/
+  background: url("/static/img/background.jpg") no-repeat
+    fixed; /*display image as background on home*/
+  background-size: 100% auto;
+}
